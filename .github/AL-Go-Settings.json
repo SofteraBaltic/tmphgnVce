@@ -1,0 +1,7 @@
+{
+  "doNotPublishApps": true,
+  "MicrosoftTelemetryConnectionString": "",
+  "useCompilerFolder": true,
+  "templateUrl": "https://github.com/SofteraBaltic/tmpHOT5wY-PTE@main",
+  "type": "PTE"
+}
