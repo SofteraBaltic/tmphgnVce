@@ -3,5 +3,6 @@
   "MicrosoftTelemetryConnectionString": "",
   "useCompilerFolder": true,
   "templateUrl": "https://github.com/SofteraBaltic/tmpHOT5wY-PTE@main",
-  "type": "PTE"
+  "type": "PTE",
+  "templateSha": "d2bdabbee96a6097a9798867c8367acab52c6c4a"
 }
